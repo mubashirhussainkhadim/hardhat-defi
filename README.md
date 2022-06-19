@@ -3,7 +3,7 @@
 3. repay the DAI
 
 
-Got 20000000000000000 WETH
+**Got 20000000000000000 WETH
 LendingPool address 0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9
 Approve
 Depositing ...
@@ -24,4 +24,4 @@ Repaid!
 You haver total 20000000106340428 worth of ETH deposited
 You have 739165982 worth of ETH borrowed
 You can borrow 16499999348564871 worth of ETH
-✨  Done in 42.13s.
+✨  Done in 42.13s.**
